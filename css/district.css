@@ -1,0 +1,29 @@
+*{
+    margin-top: 0;
+}
+.container-fluid h5{
+    color: azure;
+}
+.head1{
+    
+    font-family:serif;
+    color:darkcyan;
+    text-align: center;
+    /* border: 5px solid rgb(66, 58, 138); */
+}
+.head1 h1{
+    font-size: 4em;
+}
+    
+
+.aside{
+    margin-top: 2%;
+    padding: auto;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.aside h3{
+    color:cadetblue;
+    text-decoration: none;
+}
